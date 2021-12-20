@@ -41,6 +41,9 @@
       background-color: rgb(224, 68, 68);
       
   }
+#title:hover{
+ color:aliceblue;   
+}
   #tribute-link{
     text-align: center;
     font-size: 20px;
